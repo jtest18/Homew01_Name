@@ -2,3 +2,4 @@ the rainbow
 Purple
 Green
 Orange
+Blue
